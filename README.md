@@ -1,6 +1,9 @@
 # Credit-Card-Fraud-Detection-on-Transactions
 Fraud Detection Using Outlier Detection Tools
 
+Dataset can be downloaded from Kaggle Site:-
+https://www.kaggle.com/mlg-ulb/creditcardfraud/data
+
 
 Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. 
 In this project, that is exactly what I am going to be doing as well. Using a dataset of of nearly 28,500 credit card transactions 
