@@ -11,6 +11,7 @@ and multiple unsupervised anomaly detection algorithms, I'm going to identify tr
 In this project, we will build and deploy the following two machine learning algorithms:
 
 Local Outlier Factor (LOF)
+
 Isolation Forest Algorithm
 
 Furthermore, using metrics suchs as precision, recall, and F1-scores, I'll investigate why the classification accuracy for these algorithms 
